@@ -1,1 +1,1 @@
-# Laravel-ile-Foto-raf-G-sterimi
+# Laravel-ile-Fotogaf-Gosterimi
