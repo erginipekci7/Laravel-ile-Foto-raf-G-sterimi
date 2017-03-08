@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>fotolar</title>
+	<title>Görseller</title>
 </head>
 <body>
-@foreach($diziResim as $resimler)
-<img src="images/{{$resimler}}" height=" 200px" width="200px">
+@foreach($resimler as $resim)
+<img src="images/{{$resim}}" height=" 200px" width="200px">
 <!-- Dizide bulunan fotografları teker teker alarak ekranda gosterir. -->
 @endforeach
 
